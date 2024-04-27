@@ -19,7 +19,7 @@ pk0	ldrsh	r2,[r0,#vr1-vr2]
 	lsl	r3,r2,#2	;r3=4*r2
 	b	pk2
 pk1	lsl	r3,r2,#1	;r3=2*r2
-pk2	strh	r3,[r0],#1	
+pk2	strh	r3,[r0],#2	
 	subs	r1,r1,#1
 	bne	pk0
 	b	__main
