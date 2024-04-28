@@ -1,5 +1,5 @@
 --cpu Cortex-M3
-".\objects\ex_5d.o"
+".\objects\ex_7c.o"
 ".\objects\startup_stm32f10x_md.o"
 ".\objects\system_stm32f10x.o"
 --strict --scatter ".\Objects\ex_01.sct"

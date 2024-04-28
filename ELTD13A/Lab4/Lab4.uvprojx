@@ -385,9 +385,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>ex_2a.s</FileName>
+              <FileName>ex_4a.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\ex_2a.s</FilePath>
+              <FilePath>.\ex_4a.s</FilePath>
             </File>
           </Files>
         </Group>
